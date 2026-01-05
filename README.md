@@ -3,8 +3,24 @@ This code repository (or "repo") is designed to demonstrate the best GitHub has 
 
 The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
 
+## Git 및 버전 관리 규칙 (필수 준수)
 
-# [Project] B2B Jewel-Mall : B2B 귀금속 수출업체 소개 랜딩 페이지 & 고객, order 관리 시스템
+협업 시 충돌을 방지하고 코드 리뷰를 원활하게 진행하기 위해 모든 팀원은 다음 규칙을 반드시 준수해 주세요
+
+### 🚨 개인 브랜치 사용 및 Pull Request (PR) 워크플로우
+
+**메인 개발은 절대 `main` 브랜치에서 직접 작업하지 않습니다.** 모든 변경 사항은 **개인 브랜치**에서 진행한 후, **Pull Request(PR)를 통해서만** `main` 브랜치에 통합합니다.
+
+| 유형 | 의미 | 예시 |
+| :--- | :--- | :--- |
+| **`feat`** | 새로운 기능 추가 | `feat: 사용자 로그인 기능 추가` |
+| **`fix`** | 버그 수정 | `fix: 메인 페이지 이미지 깨짐 현상 수정` |
+| **`style`** | 코드 포맷 변경 (스타일만) | `style: CSS 띄어쓰기 및 주석 정리` |
+| **`docs`** | 문서 변경 (README 등) | `docs: README.md 내용 업데이트` |
+| **`chore`** | 기타 설정, 빌드 작업 | `chore: .gitignore 파일 업데이트` |
+
+
+## [Project] B2B Jewel-Mall : B2B 귀금속 수출업체 소개 랜딩 페이지 & 고객, order 관리 시스템
 
 ## 1. 프로젝트 개요
 
