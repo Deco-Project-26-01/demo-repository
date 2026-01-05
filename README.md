@@ -107,7 +107,7 @@ ERD 설계 및 DB 구축, SpringBoot API 개발, CI/CD 파이프라인
 
 ----------
 
-## 4. 8주 단기 로드맵 (Roadmap)
+## 4. 단기 로드맵 (Roadmap)
 
 **주차**
 
