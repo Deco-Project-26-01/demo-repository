@@ -91,19 +91,19 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 
 **Frontend**
 
-Figma 와이어프레임 구현, React 클라이언트 개발, API 연동
+Figma 와이어프레임 구현, React 클라이언트 개발, Next.js , API 연동
 
 **상우님**
 
 **Backend / Infra**
 
-ERD 설계 및 DB 구축, SpringBoot API 개발, CI/CD 파이프라인
+ERD 설계 및 DB 구축, API연동 , Swagger, CI/CD 파이프라인
 
 **현직 멘토**
 
 **Advisor**
-현대오토에버 현직자
-기술 스택 의사결정 지원 및 인프라 구축 가이드
+현대오토에버 현직자 khj1998
+(기술 스택 의사결정 지원 및 인프라 구축 가이드)
 
 ----------
 
@@ -119,7 +119,7 @@ ERD 설계 및 DB 구축, SpringBoot API 개발, CI/CD 파이프라인
 
 **기획 및 설계**
 
-오픈소스(Saleor 등) 벤치마킹, ERD 설계, API 명세서 확정, Figma 시안
+요구사항명세 확정, 타 사이트 벤치마킹, ERD 설계, API 명세서 확정, Figma 시안
 
 **3-4주**
 
