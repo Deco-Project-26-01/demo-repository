@@ -151,6 +151,6 @@ QA 및 버그 수정, 프로젝트 문서화(README/Claude.md)
 
 -   **Documentation**: 핵심 비즈니스 로직(언어 전환, 동시성 제어, 세션 만료 등) 및 API 엔드포인트는 `Claude.md`에 상시 업데이트.
     
--   **Communication**: 회의 및 정보공유 Discord 모든 의사결정 Slack에 기록하고, 작업 진행도는 Trello 칸반 보드로 시각화.
+-   **Communication**: 모든 의사결정, 회의사항 및 정보공유 Discord 에 기록하고, 작업 진행도는 Trello 칸반 보드로 시각화.
     
 -   **Code Quality**: 현직자 멘토의 기술 자문 거쳐 Main Branch Merge.
