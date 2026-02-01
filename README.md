@@ -62,13 +62,13 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 
 -   **Backend**: Java/Kotlin + SpringBoot (현업 표준 준수)
     
--   **Frontend**: JavaScript React (컴포넌트 기반 UI)
+-   **Frontend**: TypeScript React (컴포넌트 기반 UI)
     
 -   **Database**: MySQL PostgreSQL 중 택 1 (ERD 기반 설계)
     
--   **Infrastructure**: AWS (Free-tier), Docker (컨테이너화)
+-   **Infrastructure**: AWS (Free-tier) & Oracle, Docker (컨테이너화)
     
--   **Collaborator Tools**: Figma, GitHub, Slack, Trello
+-   **Collaborator Tools**: Figma, GitHub Enterprise, Slack, Trello
     
 
 ----------
@@ -103,7 +103,8 @@ ERD 설계 및 DB 구축, API연동 , Swagger, CI/CD 파이프라인
 
 **Advisor**
 
-**현대오토에버 현직자 khj1998** & 
+**현대오토에버 현직자 khj**
+**TOSS **
 **AWS korea 현직자 pjh**
 
 (기술 스택 의사결정 지원 및 인프라 구축 가이드)
