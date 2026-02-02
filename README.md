@@ -85,7 +85,7 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 
 **기획 / Infra /QA**
 
-비즈니스 로직 정의, 요구사항 명세 작성, 인프라 보조 및 비용 관리
+비즈니스 로직 정의, 요구사항 명세 작성, 인프라 web WAS DB 배포 & csp 비용 관리 & Readme.md Claude.md 작성
 
 **진욱님**
 
@@ -98,6 +98,9 @@ Figma 와이어프레임 구현, React 클라이언트 개발, Next.js , API 연
 **Backend / Infra**
 
 ERD 설계 및 DB 구축, API연동 , Swagger, CI/CD 파이프라인
+
+**준영님**
+chatbot 
 
 **현직 멘토**
 
