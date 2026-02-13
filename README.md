@@ -64,9 +64,9 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
     
 -   **Frontend**: TypeScript React (컴포넌트 기반 UI)
     
--   **Database**: MySQL PostgreSQL 중 택 1 (ERD 기반 설계)
+-   **Database**: PostgreSQL
     
--   **Infrastructure**: AWS (Free-tier) & Oracle, Docker (컨테이너화)
+-   **Infrastructure**: AWS (Free-tier) & Oracle, Docker (컨테이너화), EKS
     
 -   **Collaborator Tools**: Figma, GitHub Enterprise, Slack, Trello
     
