@@ -91,7 +91,7 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 
 **Frontend**
 
-Figma 와이어프레임 구현, React 클라이언트 개발, Next.js , API 연동
+요구사항 명세서 정의, Figma 와이어프레임 구현, React 클라이언트 개발, Next.js , API 연동
 
 **상우님**
 
