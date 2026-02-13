@@ -81,19 +81,19 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 
 **주요 담당 업무**
 
-**17 김상호님**
+**17상호님**
 
 **기획 / Infra /QA**
 
 비즈니스 로직 정의, 요구사항 명세 작성, 인프라 web WAS DB 배포 & csp 비용 관리 & Readme.md Claude.md 작성
 
-**진욱님**
+**17진욱님**
 
 **Frontend**
 
 요구사항 명세서 정의, Figma 와이어프레임 구현, React 클라이언트 개발, Next.js , API 연동
 
-**상우님**
+**17상우님**
 
 **Backend / Infra**
 
