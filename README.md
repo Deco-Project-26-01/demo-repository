@@ -106,9 +106,9 @@ chatbot ,Claude.md 작성
 
 **Advisor**
 
-**현대오토에버 현직자 khj**
-**TOSS 전직 조유성님**
-**AWS korea 현직자 pjh**
+**AUTOEVER 현직자 khj**
+**TOSS 전직 7년차 조유성님**
+**AWS korea 2년차 현직자 pjh**
 
 (기술 스택 의사결정 지원 및 인프라 구축 가이드)
 
