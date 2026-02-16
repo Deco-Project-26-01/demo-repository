@@ -9,7 +9,7 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 
 ### 🚨 개인 브랜치 사용 및 Pull Request (PR) 워크플로우
 
-**메인 개발은 절대 `main` 브랜치에서 직접 작업하지 않습니다.** 모든 변경 사항은 **개인 브랜치**에서 진행한 후, **Pull Request(PR)를 통해서만** `main` 브랜치에 통합합니다.
+**메인 개발은 절대 `main` 브랜치에서 직접 작업하지 않습니다.** 모든 변경 사항은 **개인 브랜치**에서 진행 후, **Pull Request(PR)를 통해서만** `main` 브랜치에 통합합니다.
 
 | 유형 | 의미 | 예시 |
 | :--- | :--- | :--- |
@@ -123,16 +123,16 @@ chatbot , 데이터 시각화, Claude.md 작성
 
 **기획 및 설계**
 
-요구사항명세 확정, 타 사이트 벤치마킹, ERD 설계, API 명세서 확정, Figma 시안
+요구사항 명세 확정, 타 사이트 벤치마킹 malabargoldanddiamonds, ERD 설계, API 명세서 확정, Figma 시안
 
 *4-7주*
 
 **집중 개발**
 
 **FE**
-**Brand Landing**
-**Store**
 
+**Store**
+**Brand**
 
 **BE**
 Auth(로그인) 기능, 장바구니/주문 생성 로직 개발, FE-BE API 연동
@@ -143,6 +143,7 @@ Auth(로그인) 기능, 장바구니/주문 생성 로직 개발, FE-BE API 연�
 
 AWS 환경 구축, Docker 컨테이너화, 도메인 연결 및 통합 테스트
 
+9주차
 **마무리**
 
 QA 및 버그 수정, 프로젝트 문서화(README/Claude.md)
@@ -155,4 +156,4 @@ QA 및 버그 수정, 프로젝트 문서화(README/Claude.md)
     
 -   **Communication**: 모든 의사결정, 회의사항 및 정보공유 Discord 에 기록하고, 작업 진행도는 Trello 칸반 보드로 시각화.
     
--   **Code Quality**: 현직자 멘토의 기술 자문 거쳐 Main Branch Merge.
+-   **Code Quality**: 현직자 멘토, copilot code review 거쳐 Main Branch Merge.
