@@ -26,9 +26,9 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 
 -   **목적**: 귀금속 수출 산업의 디지털 전환(DX)을 위한 주문 및 인보이스 관리 시스템 구축.
     
--   **배경**:  **AS-IS**:현업의 수동 고객 오더 메신저로 받기 및 엑셀 인보이스 작업  **TO-BE**: 자동화, API 기반의 체계적인 장바구니 , 고객정보 데이터 관리 프로세스 수립.
+-   **배경**:  **AS-IS**:현업의 수동 고객 오더 메신저로 받기 및 엑셀 인보이스 작업  **TO-BE**: 고객 정보 기반 주문 자동화, API 기반의 체계적인 장바구니 , 고객정보 데이터 관리 프로세스 수립.
     
--   **기대효과**: 실제 상용 서비스 수준의 ERD/API 설계 및 배포 경험 확보.
+-   **기대효과**: 실제 상용 서비스 수준의 ERD/API/PRD 설계 및 Enterprise 급 배포 경험 확보.
     
 
 ----------
@@ -60,15 +60,15 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 
 ### 💻 기술 스택 (Tech Stack)
 
--   **Backend**: Java/Kotlin + SpringBoot (현업 표준 준수)
+-   **Backend**: Java(향후 Kotlin 필요시 리팩토링) + SpringBoot (현업 표준 준수)
     
 -   **Frontend**: TypeScript React (컴포넌트 기반 UI)
     
 -   **Database**: PostgreSQL
     
--   **Infrastructure**: AWS (Free-tier) & Oracle, Docker (컨테이너화), EKS
+-   **Infrastructure**: AWS (Free-tier) & Oracle, Docker Container, EKS , Railway
     
--   **Collaborator Tools**: Figma, GitHub Enterprise, Slack, Trello
+-   **Collaborator Tools**: Figma, GitHub Enterprise, Slack Pro, Trello
     
 
 ----------
@@ -83,34 +83,33 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 
 **17상호님**
 
-**기획 / Infra /QA**
+**기획 /Infra /QA**
 
-비즈니스 로직 정의, 요구사항 명세 작성, 인프라 web WAS DB 배포 & csp 비용 관리 & Readme.md 
+비즈니스 로직 정의, 팀원모집 및 회의주도, 인프라 배포 & csp 비용 관리 & Readme.md 작성, QA 
 
 **17진욱님**
 
 **Frontend**
 
-요구사항 명세서 정의, Figma 와이어프레임 구현, React 클라이언트 개발, Next.js , API 연동
+요구사항 명세서 정의, Figma 와이어프레임 구현, React 클라이언트 개발, Next.js , API 연동 , FE QA
 
 **17상우님**
 
 **Backend / Infra**
 
-ERD 설계 및 DB 구축, API연동 , Swagger, CI/CD 파이프라인
+ERD 설계 및 DB 구축, API연동 , Swagger, CI/CD 파이프라인, BE QA
 
-**준영님**
-chatbot ,Claude.md 작성
+** 준영님(예정) **
+chatbot , 데이터 시각화, Claude.md 작성
 
 **현직 멘토**
+**Advisor  (기술 스택 의사결정 지원 및 인프라 구축 가이드)**
 
-**Advisor**
+**BE 현직AUTOEVER khj**
+**FE 전직 TOSS 7년차 조유성님**
+**Infra 현직 AWS korea 2년차**
 
-**AUTOEVER 현직자 khj**
-**TOSS 전직 7년차 조유성님**
-**AWS korea 2년차 현직자 pjh**
 
-(기술 스택 의사결정 지원 및 인프라 구축 가이드)
 
 ----------
 
