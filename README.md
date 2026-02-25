@@ -60,9 +60,9 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 
 ### 💻 기술 스택 (Tech Stack)
 
--   **Backend**: Java(향후 Kotlin 필요시 리팩토링) + SpringBoot (현업 표준 준수)
+-   **Backend**: Java + SpringBoot (현업 표준 준수)
     
--   **Frontend**: TypeScript React (컴포넌트 기반 UI)
+-   **Frontend**: TypeScript + React (컴포넌트 기반 UI)
     
 -   **Database**: PostgreSQL
     
@@ -105,8 +105,8 @@ chatbot , 데이터 시각화, Claude.md 작성
 **현직 멘토**
 **Advisor  (기술 스택 의사결정 지원 및 인프라 구축 가이드)**
 
-**BE 현직AUTOEVER khj**
-**FE 전직 TOSS 7년차 조유성님**
+**BE 현직AUTOEVER 김호진님**
+**FE 전직 TOSS 6년차**
 **Infra 현직 AWS korea 2년차**
 
 
@@ -146,7 +146,7 @@ AWS 환경 구축, Docker 컨테이너화, 도메인 연결 및 통합 테스트
 9주차
 **마무리**
 
-QA 및 버그 수정, 프로젝트 문서화(README/Claude.md)
+QA 및 버그 수정, 프로젝트 문서화(README/API documentation/Claude.md)
 
 ----------
 
