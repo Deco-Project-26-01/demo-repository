@@ -191,7 +191,7 @@ File: `demo/src/main/java/com/deco/demo/SecurityConfig.java`
 
 Swagger UI is available at `/swagger-ui.html` (or `/swagger-ui/index.html`) when the application is running. OpenAPI spec at `/v3/api-docs`.
 
-Access requires form login (credentials from Spring Security's default or a configured `UserDetailsService`).
+By default, Swagger UI and the OpenAPI docs are publicly accessible without authentication because `/swagger-ui/**`, `/swagger-ui.html`, and `/v3/api-docs/**` are permitted in `SecurityConfig`. If you change security settings, update this section accordingly.
 
 ---
 
