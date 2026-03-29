@@ -19,23 +19,21 @@ CTA: 견적 요청 / 장바구니 추가
 
 👉 현재 DB 이미 있음 → 그대로 사용
 
-🟦 How We Work ⭐ 핵심
-거래 절차
-
-MOQ 안내
+🟦 How We Work 
+-거래 절차
+-납기 프로세스
+-MOQ 안내
 
 생산 방식 설명
 
-납기 프로세스
 
-👉 B2B 신뢰 확보 페이지
+
+
 
 🟦 Gold & Silver Rate
 금 시세
 
 환율 정보
-
-👉 이미 있음 → 메뉴만 노출
 
 🟦 Request Quote ⭐ 핵심 CTA
 상품 선택 후 견적 요청
