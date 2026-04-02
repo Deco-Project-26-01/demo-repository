@@ -103,17 +103,32 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 
 ERD 설계 및 DB 구축, API연동 , Swagger, CI/CD 파이프라인, BE QA
 
-** 준영님(예정) **
-chatbot , 데이터 시각화, Claude.md 작성
+Claude.md 작성
 
 **현직 멘토**
 **Advisor  (기술 스택 의사결정 지원 및 인프라 구축 가이드)**
 
 **BE 현직AUTOEVER 김호진님**
-**FE 전직 TOSS 6년차**
 **Infra 현직 AWS korea 2년차**
 
+### 구조적 핵심 요소
+- WAS 및 DB 이중화 (Multi-AZ):
 
+- WAS: Auto Scaling Group을 활용해 2개 이상의 가용 영역(AZ)에 EC2를 배치하고 Load Balancer(ALB)로 연결합니다.
+
+- DB: Amazon RDS의 Multi-AZ 기능을 사용하여 메인 DB 장애 시 자동으로 예비 DB(Standby)로 전환되는 구조를 갖춥니다.
+
+특정 해외 지역 리전 차단:
+
+- AWS WAF (Web Application Firewall): 지리적 일치(Geo Match) 조건을 설정하여 특정 국가의 IP 접근을 원천 차단합니다. 이는 금융권이나 특정 국가 타겟 서비스에서 필수적인 보안 요소입니다.
+
+- CloudFront: 콘텐츠 전송 네트워크(CDN) 단에서 특정 지역의 접근을 Geo-Restriction 기능을 통해 막을 수도 있습니다.
+
+보안 강화 (Bastion Host):
+
+- 모든 WAS와 DB는 Private Subnet에 숨김.
+
+- 관리자만 Bastion Host를 통해서만 내부 서버에 접속할 수 있도록 설계하여 보안 접속 체계를 완성합니다.
 
 ----------
 
