@@ -3,7 +3,6 @@
 ![Proof HTML](https://github.com/Side-Project-26-01/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
 # Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
 
 The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
 
@@ -133,7 +132,7 @@ Claude.md 작성
 
 ----------
 
-## 4. 단기 로드맵 (Roadmap) & (Milestones)
+## 4. 로드맵 (Roadmap & Milestones)
 
 *주차*
 
@@ -141,32 +140,33 @@ Claude.md 작성
 
 *1-3주*
 
-**기획 및 설계**
+**기획 및 설계 3주**
 
-요구사항 명세 확정, 타 사이트 벤치마킹 malabargold,jestina 등 , ERD 설계, API 명세서 확정, Figma 시안 by jjw
+- 요구사항 명세 확정, 타 사이트 벤치마킹 malabargold, jestina 등 , API 명세서 확정, Figma 시안 by jjw
+- ERD 설계 by lsw
+- WBS 구축
 
-*4-7주*
+*4-9주*
 
-**집중 개발**
+**집중 개발 6주**
 
 **FE**
 
 **Store**
-**Brand**
+-> **Brand**
 
 **BE**
 Auth(로그인) 기능, 장바구니/주문 생성 로직 개발, FE-BE API 연동
 
-*7-8주차*
+*10-11주차*
 
 **인프라 및 배포**
 
 AWS 환경 구축, Docker 컨테이너화, 도메인 연결 및 통합 테스트
 
-9주차
 **마무리**
 
-QA 및 버그 수정, 프로젝트 문서화(README/API documentation/Claude.md)
+QA 및 버그 수정, 프로젝트 문서화(README/API documentation)
 
 ----------
 
@@ -176,6 +176,6 @@ QA 및 버그 수정, 프로젝트 문서화(README/API documentation/Claude.md)
     
 -   **Communication**: 모든 의사결정, 회의사항 및 정보공유 Discord 에 기록하고, 작업 진행도는 Trello 칸반 보드로 시각화.
     
--   **Code Quality**: 현직자 멘토, copilot code review 거쳐 Main Branch Merge.
+-   **Code Quality**: 현직자 멘토, copilot code review Main Branch Merge.
 
 <img width="1566" height="1260" alt="image" src="https://github.com/user-attachments/assets/2651bff0-670e-4ccb-bdb3-4a0b7a2c696e" />
