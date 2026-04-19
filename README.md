@@ -142,7 +142,7 @@ Claude.md 작성
 
 **기획 및 설계**
 
-요구사항 명세 확정, 타 사이트 벤치마킹 malabargoldanddiamonds, ERD 설계, API 명세서 확정, Figma 시안
+요구사항 명세 확정, 타 사이트 벤치마킹 malabargold,jestina 등 , ERD 설계, API 명세서 확정, Figma 시안 by jjw
 
 *4-7주*
 
@@ -176,3 +176,5 @@ QA 및 버그 수정, 프로젝트 문서화(README/API documentation/Claude.md)
 -   **Communication**: 모든 의사결정, 회의사항 및 정보공유 Discord 에 기록하고, 작업 진행도는 Trello 칸반 보드로 시각화.
     
 -   **Code Quality**: 현직자 멘토, copilot code review 거쳐 Main Branch Merge.
+
+<img width="1566" height="1260" alt="image" src="https://github.com/user-attachments/assets/2651bff0-670e-4ccb-bdb3-4a0b7a2c696e" />
