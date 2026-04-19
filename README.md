@@ -41,23 +41,24 @@ The repo includes an `index.html` file (so it can render a web page), two GitHub
 
 ### 🛠 핵심 기능 (Core Features)
 
-1.  **인증 및 인가 (Auth)**
+1.  **회사 소개페이지 (Brand)**
+2.  **인증 및 인가(Authentication and Authorization)**
     
     -   Spring Security 기반 보안 설정.
         
     -   바이어 접근성 향상을 위한 Google/소셜 로그인 연동.
         
-2.  **회원 및 업체 관리 (CRM)**
+3.  **회원 및 업체 관리 (CRM)**
     
     -   B2B 기업 회원 등급(Tier) 및 바이어 정보 관리.
         
-3.  **주문 관리 시스템 (Core OMS)**
+4.  **주문 관리 시스템 (Core OMS)**
     
     -   수동 엑셀 인보이스를 대체하는 디지털 주문서 자동 생성.
         
     -   주문 생명주기 관리: `접수` → `결제 확인` → `배송` → `완료`.
         
-4.  **장바구니 및 견적함**
+5.  **장바구니 및 견적함**
     
     -   상품 담기 기능.
         
